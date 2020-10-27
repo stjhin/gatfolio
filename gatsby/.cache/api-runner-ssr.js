@@ -1,16 +1,4 @@
-var plugins = [{
-      plugin: require('/Users/silvialytjhin/Documents/courseGatsy/master-gatsby-master/starter-files/gatsby/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
-      options: {"plugins":[]},
-    },{
-      plugin: require('/Users/silvialytjhin/Documents/courseGatsy/master-gatsby-master/starter-files/gatsby/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
-      options: {"plugins":[]},
-    },{
-      plugin: require('/Users/silvialytjhin/Documents/courseGatsy/master-gatsby-master/starter-files/gatsby/node_modules/gatsby-source-sanity/gatsby-ssr'),
-      options: {"plugins":[],"projectId":"7yutsm4w","dataset":"production","watchMode":true,"token":"skONxOTLzX9opOi2WsEfCRNyMyFYm40R3ZEEdQv5lIPDjUZwz5795mcjZd1WkutuAuXcyg7d2EOnDmqmnPASL3U30VYQ2UPKwE6sSHrHbnSQhpiqXKCRgRwffgBQJwAKYq19tLLblOqk6GGtWpBHbhQn8s2401CeSgGDJbveiUQVJJYDHYT3"},
-    },{
-      plugin: require('/Users/silvialytjhin/Documents/courseGatsy/master-gatsby-master/starter-files/gatsby/gatsby-ssr'),
-      options: {"plugins":[]},
-    }]
+var plugins = []
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
 //   {
