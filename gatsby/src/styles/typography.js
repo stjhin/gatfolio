@@ -2,7 +2,7 @@ import { createGlobalStyle } from 'styled-components';
 
 const Typography = createGlobalStyle`
     :root {
-        --font-family-base: 'Open Sans';
+        --font-family-base: 'Open Sans', sans-serif;
 
         /* Typography */
         --unit: 16;
