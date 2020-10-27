@@ -24,4 +24,5 @@
     "javascript",
     "javascriptreact"
   ],
+  "git.ignoreLimitWarning": true,
 }
