@@ -1,5 +1,5 @@
 {
-  "name": "slicks-slices-frontend",
+  "name": "gatfolio-frontend",
   "private": true,
   "description": "Slick Serves the Sweetest Slices",
   "version": "0.1.0",
@@ -59,6 +59,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wesbos/slicks-slices"
+    "url": "https://github.com/stjhin/gatfolio"
   }
 }
